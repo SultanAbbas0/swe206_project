@@ -197,7 +197,12 @@ The app expects these top-level collections:
 
 ## Screenshots
 
-> Add screenshots here.
+![Alt Text](screenshots/1.png)
+![Alt Text](screenshots/2.png)
+![Alt Text](screenshots/3.png)
+![Alt Text](screenshots/4.png)
+![Alt Text](screenshots/5.png)
+![Alt Text](screenshots/6.png)
 
 ---
 
