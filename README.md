@@ -197,12 +197,12 @@ The app expects these top-level collections:
 
 ## Screenshots
 
-<img src="screenshots/1.png" alt="Description" width="50%">
-<img src="screenshots/2.png" alt="Description" width="50%">
-<img src="screenshots/3.png" alt="Description" width="50%">
-<img src="screenshots/4.png" alt="Description" width="50%">
-<img src="screenshots/5.png" alt="Description" width="50%">
-<img src="screenshots/6.png" alt="Description" width="50%">
+<img src="screenshots/1.png" alt="Description" width="25%">
+<img src="screenshots/2.png" alt="Description" width="25%">
+<img src="screenshots/3.png" alt="Description" width="25%">
+<img src="screenshots/4.png" alt="Description" width="25%">
+<img src="screenshots/5.png" alt="Description" width="25%">
+<img src="screenshots/6.png" alt="Description" width="25%">
 
 
 ---
